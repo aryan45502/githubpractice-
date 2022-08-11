@@ -11,4 +11,5 @@ naam="Aryan"  #here, naam is a variable which stores/holds strig type value i.e 
 # And in python string are always inside single or double quotes:
 # for example :"Aryan" or 'Aryan'
 
-hello my name  
+hello my name 
+new file  
